@@ -6,7 +6,7 @@
 
 ## 📖 Vision
 
-A collaborative project exploring how data and machine learning can be used to predict football match results. With no boundaries on datasets, we experiment with everything from match stats and player performance to external factors like weather, sentiment, and more.
+A collaborative project exploring how data and machine learning can be used to predict football match results. With no boundaries on datasets, we experiment with everything from match stats and player performance to external factors like weather, sentiment, and more. Only after this will we have a confidence as to what is we will use as metric we will consider for prédictions.
 
 ## 🎯 Goals
 
