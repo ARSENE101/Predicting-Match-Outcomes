@@ -1,6 +1,6 @@
 # ⚽ Football Match Outcome Prediction
 
-> Exploring how data and machine learning can be used to predict football match results — no boundaries on datasets, methods, or ideas. ps: ANYONE is welcomedto contribute
+> Exploring how data and machine learning can be used to predict football match results — no boundaries on datasets, methods, or ideas. ps: ANYONE is more than welcomed to contribute, at this point any idea will; be explored to the best of my research capacity. 
 
 ---
 
